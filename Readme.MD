@@ -1,13 +1,12 @@
 ![Project Image](todoapp.png)
 
-
-
 ### Table of Contents
 
 - [Description](#description)
 - [Technologies](#technologies)
 - [How To Use](#how-to-use)
 - [License](#license)
+- [Author](#author)
 
 
 ---
@@ -21,12 +20,11 @@ Hello, this is a nodejs todo list app, in which you can keep track of the tasks 
 - CSS
 - Javasrcipt
 - Nodejs
+- EJS(for template)
 - Mongodb(for database)
 - Mongoose
 
 [Back To The Top](#read-me-template)
-
----
 
 ## How To Use
 
@@ -36,17 +34,19 @@ First download the project using zip file then open it in any code editor you wa
 After that open the gitbash/hyper in the path of downloaded folder after extracting the zip
 then initiate the node by the command
 
-<h1>npm init</h1>
+<b>npm init</b>
 
 then install node module express using command 
 
-<h1>npm i express</h1>
+<b>npm i express</b>
 
 then you can install nodemon by the command
 
-<h1>npm i nodemon</h1>
+<b>npm i nodemon</b>
 
+then run node app.js in hyper.
 then type nodemon in the git bash/hyper.
+
 
 After that at type "localhost:3000" in the the browser 
 
@@ -71,3 +71,7 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+
+## Author 
+- - [Shweta mehta](https://github.com/shweta588)

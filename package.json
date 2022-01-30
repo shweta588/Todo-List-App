@@ -1,7 +1,7 @@
 {
   "name": "todolist-v1",
   "version": "1.0.0",
-  "description": "",
+  "description": "![Project Image](todoapp.png)",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,17 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
+    
     "lodash": "^4.17.11",
-    "mongoose": "^5.3.4"
-  }
+    "mongoose": "^5.3.4",
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shweta588/Todo-List-App.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shweta588/Todo-List-App/issues"
+  },
+  "homepage": "https://github.com/shweta588/Todo-List-App#readme"
 }
